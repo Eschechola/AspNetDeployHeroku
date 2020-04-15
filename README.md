@@ -2,13 +2,13 @@
 
 <br>
 
-<font color="green">//Inicia o arquivo de versionamento</font>
++ //Inicia o arquivo de versionamento
 <br>
 git init
 
 <br><br>
 
-<font color="green">//Cria a aplicação no heroku</font>
++ //Cria a aplicação no heroku
 <br>
 heroku create NOME-APLICACAO --buildpack https://github.com/jincod/dotnetcore-buildpack
 <br>
@@ -16,24 +16,24 @@ heroku create NOME-APLICACAO --buildpack https://github.com/jincod/dotnetcore-bu
 
 <br><br>
 
-<font color="green">//Adiciona e versiona os arquivos</font>
++ //Adiciona e versiona os arquivos
 <br>
 git add .
 
 <br><br>
 
-<font color="green">//Adiciona um comentário a versão</font>
++ //Adiciona um comentário a versão
 <br>
 git commit -m "commit inicial"
 	
  <br><br>
   
-<font color="green">//Envia o projeto para o ambiente de produção</font>
++ //Envia o projeto para o ambiente de produção
 <br>
 git push heroku master
 
 <br><br>
 
-<font color="green">//Abre o projeto</font>
++ //Abre o projeto
 <br>
 heroku open
