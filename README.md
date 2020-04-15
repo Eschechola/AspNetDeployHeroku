@@ -15,7 +15,7 @@ git init
 ````
 <br>
 heroku create NOME-APLICACAO --buildpack https://github.com/jincod/dotnetcore-buildpack
-<br>
+<br><br>
 <strong>OBS:</strong><em> O nome deve conter somente letras minúsculas, números e hífens</em>
 
 <br><br>
@@ -49,3 +49,7 @@ git push heroku master
 ````
 <br>
 heroku open
+
+<br><br>
+<br><br>
+<p align="center">2020</p>
