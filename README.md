@@ -14,7 +14,9 @@ git init
 + //Cria a aplicação e o ambiente no heroku
 ````
 <br>
-heroku create NOME-APLICACAO --buildpack https://github.com/jincod/dotnetcore-buildpack
+heroku create <strong>NOME-APLICACAO</strong> --buildpack https://github.com/jincod/dotnetcore-buildpack<strong>#VERSAO</strong>
+<br><br>
+<strong>Versões: </strong><a href="https://github.com/jincod/dotnetcore-buildpack/releases">aqui</a>
 <br><br>
 <strong>OBS:</strong><em> O nome deve conter somente letras minúsculas, números e hífens</em>
 
