@@ -1,5 +1,12 @@
 # Deploy de aplicações ASP .NET Core X.X no Heroku
 
+
+<p>
+	Artigo demonstrando como realizar o deploy de aplicações ASP .NEt Core X no Heroku
+	<br>
+	Link: https://eschechola.com.br/2020/04/15/hospedando-uma-aplicacao-asp-net-core-no-heroku
+</p>
+
 <br>
 
 ```diff
